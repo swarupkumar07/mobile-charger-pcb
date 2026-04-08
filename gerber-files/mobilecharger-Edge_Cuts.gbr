@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.7*%
+%TF.CreationDate,2026-04-08T17:22:56+05:30*%
+%TF.ProjectId,mobilecharger,6d6f6269-6c65-4636-9861-726765722e6b,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.7) date 2026-04-08 17:22:56*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X76000000Y-38250000D02*
+X196250000Y-38250000D01*
+X196250000Y-100250000D01*
+X76000000Y-100250000D01*
+X76000000Y-38250000D01*
+M02*
