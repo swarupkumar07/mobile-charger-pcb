@@ -1,0 +1,11 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"F2";"Fuseholder_Cylinder-5x20mm_Schurter_0031_8201_Horizontal_Open";1;"Fuse";;;
+2;"J3";"TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm";1;"Conn_01x02";;;
+3;"RV1";"RV_Disc_D9mm_W4.5mm_P5mm";1;"Varistor";;;
+4;"C1";"C_Radial_D5.0mm_H5.0mm_P2.00mm";1;"C";;;
+5;"D1";"LED_D5.0mm";1;"LED";;;
+6;"D2";"D_DO-41_SOD81_P2.54mm_Vertical_AnodeUp";1;"D";;;
+7;"J1";"USB_A_Molex_67643_Horizontal";1;"USB_A";;;
+8;"PS1";"Converter_ACDC_Hi-Link_HLK-5Mxx";1;"HLK-5M05";;;
+9;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical";1;"R";;;
+10;"TH1";"C_Disc_D5.0mm_W2.5mm_P5.00mm";1;"Thermistor_NTC";;;
